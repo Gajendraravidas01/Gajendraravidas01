@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gajendra Kumar Ravidas</h1>
 <h3 align="center">A passionate and dedicated Full Stack Developer with a strong focus on building responsive and efficient web applications.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gajendraravidas01" alt="gajendraravidas01" /></a> </p>
-
 - 🔭 I’m currently working on [SuperLeads](https://superleads-io.netlify.app/)
 
 - 🌱 I’m currently learning **GraphQL, NestJS, Websocket, Angular, ReactNative**
