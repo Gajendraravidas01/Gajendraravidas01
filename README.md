@@ -1,8 +1,7 @@
-<!-- Banner with gradient background -->
+<!-- Gradient Banner -->
 <div align="center">
-  <img src="https://i.ibb.co/T1BqFjR/gradient-bg.png" width="100%" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63,200:24243e&height=200&section=header&text=Hi%20👋,%20I'm%20Gajendra%20Kumar%20Ravidas&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
   
-  <h1>Hi 👋, I'm <span style="color:#F2BD12">Gajendra Kumar Ravidas</span></h1>
   <h3>A passionate and dedicated Full Stack Developer with a strong focus on building responsive and efficient web applications.</h3>
 </div>
 
@@ -23,7 +22,7 @@
 ### 🌐 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/gajendra-kumar-ravidas-905584249/" target="blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 
@@ -31,7 +30,6 @@
 
 ### 🛠 Languages and Tools:
 <p align="center">
-  <!-- Icons are same, just aligned better -->
   <img src="https://skillicons.dev/icons?i=aws,babel,bash,bootstrap,c,cpp,css,docker,express,figma,firebase,framer,gcp,git,graphql,html,js,kafka,nestjs,nextjs,nodejs,postman,python,react,redux,sass,tailwind,ts&perline=10" />
 </p>
 
@@ -48,5 +46,5 @@
 
 ---
 
-<!-- Footer wave effect -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="100%" height="100px"/>
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
